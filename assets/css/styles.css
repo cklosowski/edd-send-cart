@@ -1,0 +1,42 @@
+#edd-send-cart-button,
+#edd-send-cart-now {
+	text-decoration: none;
+}
+
+#edd-send-cart-form-wrapper {
+	display: none;
+	text-align: left;
+}
+
+#edd-send-cart-form-wrapper strong {
+	display: block;
+}
+
+#edd-send-cart-form-wrapper input,
+#edd-send-cart-form-wrapper textarea {
+	margin-bottom: 5px;
+}
+
+#edd-send-cart-form-wrapper .text-half {
+	width: 47%;
+	display: inline-block;
+}
+
+#edd-send-cart-form-wrapper textarea {
+	height: 300px;
+	width: 100%;
+}
+
+#edd-send-cart-form-wrapper .small-text {
+	float: left;
+	display: inline;
+	width: 80%;
+	text-transform: none;
+	color: #999;
+	font-weight: normal;
+}
+
+#edd-send-cart-form-wrapper .send-button {
+	text-align: right;
+	display: block;
+}
